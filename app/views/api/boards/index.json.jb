@@ -1,0 +1,5 @@
+@boards.map do |board|
+  {
+    name: board.name
+  }
+end
