@@ -1,6 +1,3 @@
 @quests.map do |quest|
-  {
-    id: quest.id,
-    name: quest.name
-  }
+  render partial: "quest.json.jb", locals: {quest: quest}
 end

@@ -1,7 +1,7 @@
 class Api::QuestsController < ApplicationController
 
   def index
-    @quests = Quest.all
+    @quests = Quest.where("name iLIKE ?", "%#{params[:name]}%")
     render 'index.json.jb'
   end
 

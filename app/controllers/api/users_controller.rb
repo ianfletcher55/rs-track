@@ -1,6 +1,6 @@
 class Api::UsersController < ApplicationController
   
-  # before_action :authenticate_user, :except => [:create]
+  before_action :authenticate_user, :except => [:create]
 
   def show
     @user = User.find_by(id: params[:id])
@@ -14,7 +14,7 @@ class Api::UsersController < ApplicationController
       password_confirmation: params[:password_confirmation]
     )
     if @user.save
-      render json: {message: 'User created successfully'}, status: :created
+      render 'show.json.jb'
     else
       render json: {errors: user.errors.full_messages}, status: :unprocessable_entity
     end
@@ -30,7 +30,7 @@ class Api::UsersController < ApplicationController
         @user.password_confirmation = params[:password_confirmation]
       end
       if @user.save
-        render json: { message: "User updated successfully" }
+        render 'show.json.jb'
       else
         render json: {errors: @user.errors.full_messages }, status: :bad_request
       end

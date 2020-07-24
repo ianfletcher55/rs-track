@@ -22,6 +22,18 @@ Rails.application.routes.draw do
     get "/quests" => "quests#index"
 
     get "/lists" => "lists#index"
+
+    post "/list_items" => "list_items#create"
+    delete "/list_items/:id" => "list_items#destroy"
+
+
+    post "/list_quests" => "list_quests#create"
+    delete "/list_quests/:id" => "list_quests#destroy"
+
+    post "/notes" => "notes#create"
+    delete "/notes/:id" => "notes#destroy"
+    patch "/notes/:id" => "notes#update"
+
   end
 
 end

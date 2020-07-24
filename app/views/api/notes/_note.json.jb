@@ -1,0 +1,5 @@
+{
+  id: note.id,
+  list_id: note.list_id,
+  text: note.text
+}
