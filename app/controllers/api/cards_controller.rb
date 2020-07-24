@@ -1,11 +1,26 @@
 class Api::CardsController < ApplicationController
 
   def create
-    @card = Card.new(
-      list_id: ,
-      quest_name: "",
-      item_name: ""
-    )
+    type = params[:type]
+    if type == "quest"
+      @card = Card.new(
+        list_id: @board.lists.first.id,
+        quest_name: Quest.first
+      )
+    elsif type == "item"
+      @card = Card.new(
+        list_id: @boards.lists.second.id,
+        item_name: Item.first
+      )
+    elsif type == "notes"
+      @card = Card.new(
+        list_id: @boards.lists.third.id
+      )
+    else
+      @card = Card.new(
+        list_id: @board.lists.last.id
+      )
+    end
     if @card.save
       render json: {message: "Card succesfully created"}
     else

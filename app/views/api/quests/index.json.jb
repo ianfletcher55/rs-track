@@ -1,0 +1,6 @@
+@quests.map do |quest|
+  {
+    id: quest.id,
+    name: quest.name
+  }
+end

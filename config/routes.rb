@@ -18,6 +18,10 @@ Rails.application.routes.draw do
     delete "/cards/:id" => "cards#destroy"
 
     get "/items" => "items#index"
+
+    get "/quests" => "quests#index"
+
+    get "/lists" => "lists#index"
   end
 
 end
