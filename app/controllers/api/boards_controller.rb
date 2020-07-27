@@ -31,10 +31,6 @@ class Api::BoardsController < ApplicationController
         board_id: @board.id,
         name: "Notes"
       )
-      List.create(
-        board_id: @board.id,
-        name: "GE-Tracker"
-      )
     else
       render json: {errors: @product.errors.full_messages}, status: :unprocessable_entity
     end
