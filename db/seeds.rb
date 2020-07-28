@@ -391,7 +391,7 @@ Item.create([
     },
     {
       "osrs_id": 223,
-      "name": "Red sposrs_iders\u0027 eggs"
+      "name": "Red spiders' eggs"
     },
     {
       "osrs_id": 225,
@@ -763,19 +763,19 @@ Item.create([
     },
     {
       "osrs_id": 538,
-      "name": "Druosrs_id\u0027s robe"
+      "name": "Druid's robe"
     },
     {
       "osrs_id": 540,
-      "name": "Druosrs_id\u0027s robe top"
+      "name": "Druid's robe top"
     },
     {
       "osrs_id": 542,
-      "name": "Monk\u0027s robe"
+      "name": "Monk's robe"
     },
     {
       "osrs_id": 544,
-      "name": "Monk\u0027s robe top"
+      "name": "Monk's robe top"
     },
     {
       "osrs_id": 546,
@@ -1483,7 +1483,7 @@ Item.create([
     },
     {
       "osrs_id": 1065,
-      "name": "Green d\u0027hosrs_ide vamb"
+      "name": "Green d'hide vamb"
     },
     {
       "osrs_id": 1067,
@@ -1551,7 +1551,7 @@ Item.create([
     },
     {
       "osrs_id": 1099,
-      "name": "Green d\u0027hosrs_ide chaps"
+      "name": "Green d'hide chaps"
     },
     {
       "osrs_id": 1101,
@@ -1623,7 +1623,7 @@ Item.create([
     },
     {
       "osrs_id": 1135,
-      "name": "Green d\u0027hosrs_ide body"
+      "name": "Green d'hide body"
     },
     {
       "osrs_id": 1137,
@@ -2555,7 +2555,7 @@ Item.create([
     },
     {
       "osrs_id": 1739,
-      "name": "Cowhosrs_ide"
+      "name": "Cowhide"
     },
     {
       "osrs_id": 1741,
@@ -2571,19 +2571,19 @@ Item.create([
     },
     {
       "osrs_id": 1747,
-      "name": "Black dragonhosrs_ide"
+      "name": "Black dragonhide"
     },
     {
       "osrs_id": 1749,
-      "name": "Red dragonhosrs_ide"
+      "name": "Red dragonhide"
     },
     {
       "osrs_id": 1751,
-      "name": "Blue dragonhosrs_ide"
+      "name": "Blue dragonhide"
     },
     {
       "osrs_id": 1753,
-      "name": "Green dragonhosrs_ide"
+      "name": "Green dragonhide"
     },
     {
       "osrs_id": 1755,
@@ -2719,15 +2719,15 @@ Item.create([
     },
     {
       "osrs_id": 1875,
-      "name": "Onion \u0026 tomato"
+      "name": "Onion & tomato"
     },
     {
       "osrs_id": 1877,
-      "name": "Ugthanki \u0026 onion"
+      "name": "Ugthanki & onion"
     },
     {
       "osrs_id": 1879,
-      "name": "Ugthanki \u0026 tomato"
+      "name": "Ugthanki & tomato"
     },
     {
       "osrs_id": 1881,
@@ -2755,11 +2755,11 @@ Item.create([
     },
     {
       "osrs_id": 1907,
-      "name": "Wizard\u0027s mind bomb"
+      "name": "Wizard's mind bomb"
     },
     {
       "osrs_id": 1909,
-      "name": "Greenman\u0027s ale"
+      "name": "Greenman's ale"
     },
     {
       "osrs_id": 1911,
@@ -2839,7 +2839,7 @@ Item.create([
     },
     {
       "osrs_id": 1949,
-      "name": "Chef\u0027s hat"
+      "name": "Chef's hat"
     },
     {
       "osrs_id": 1951,
@@ -2947,7 +2947,7 @@ Item.create([
     },
     {
       "osrs_id": 2023,
-      "name": "Cocktail guosrs_ide"
+      "name": "Cocktail guide"
     },
     {
       "osrs_id": 2025,
@@ -2959,23 +2959,23 @@ Item.create([
     },
     {
       "osrs_id": 2028,
-      "name": "Premade blurb\u0027 sp."
+      "name": "Premade blurb' sp."
     },
     {
       "osrs_id": 2030,
-      "name": "Premade choc s\u0027dy"
+      "name": "Premade choc s'dy"
     },
     {
       "osrs_id": 2032,
-      "name": "Premade dr\u0027 dragon"
+      "name": "Premade dr' dragon"
     },
     {
       "osrs_id": 2034,
-      "name": "Premade fr\u0027 blast"
+      "name": "Premade fr' blast"
     },
     {
       "osrs_id": 2036,
-      "name": "Premade p\u0027 punch"
+      "name": "Premade p' punch"
     },
     {
       "osrs_id": 2038,
@@ -2983,7 +2983,7 @@ Item.create([
     },
     {
       "osrs_id": 2040,
-      "name": "Premade wiz blz\u0027d"
+      "name": "Premade wiz blz'd"
     },
     {
       "osrs_id": 2048,
@@ -3103,7 +3103,7 @@ Item.create([
     },
     {
       "osrs_id": 2152,
-      "name": "Toad\u0027s legs"
+      "name": "Toad's legs"
     },
     {
       "osrs_id": 2162,
@@ -3123,7 +3123,7 @@ Item.create([
     },
     {
       "osrs_id": 2167,
-      "name": "Gianne\u0027s cook book"
+      "name": "Gianne's cook book"
     },
     {
       "osrs_id": 2169,
@@ -3139,7 +3139,7 @@ Item.create([
     },
     {
       "osrs_id": 2187,
-      "name": "Tangled toad\u0027s legs"
+      "name": "Tangled toad's legs"
     },
     {
       "osrs_id": 2191,
@@ -3171,11 +3171,11 @@ Item.create([
     },
     {
       "osrs_id": 2219,
-      "name": "Premade w\u0027m batta"
+      "name": "Premade w'm batta"
     },
     {
       "osrs_id": 2221,
-      "name": "Premade t\u0027d batta"
+      "name": "Premade t'd batta"
     },
     {
       "osrs_id": 2223,
@@ -3183,7 +3183,7 @@ Item.create([
     },
     {
       "osrs_id": 2225,
-      "name": "Premade fr\u0027t batta"
+      "name": "Premade fr't batta"
     },
     {
       "osrs_id": 2227,
@@ -3207,19 +3207,19 @@ Item.create([
     },
     {
       "osrs_id": 2237,
-      "name": "Premade w\u0027m crun\u0027"
+      "name": "Premade w'm crun'"
     },
     {
       "osrs_id": 2239,
-      "name": "Premade ch\u0027 crunch"
+      "name": "Premade ch' crunch"
     },
     {
       "osrs_id": 2241,
-      "name": "Premade s\u0027y crunch"
+      "name": "Premade s'y crunch"
     },
     {
       "osrs_id": 2243,
-      "name": "Premade t\u0027d crunch"
+      "name": "Premade t'd crunch"
     },
     {
       "osrs_id": 2253,
@@ -3475,39 +3475,39 @@ Item.create([
     },
     {
       "osrs_id": 2487,
-      "name": "Blue d\u0027hosrs_ide vamb"
+      "name": "Blue d'hide vamb"
     },
     {
       "osrs_id": 2489,
-      "name": "Red d\u0027hosrs_ide vamb"
+      "name": "Red d'hide vamb"
     },
     {
       "osrs_id": 2491,
-      "name": "Black d\u0027hosrs_ide vamb"
+      "name": "Black d'hide vamb"
     },
     {
       "osrs_id": 2493,
-      "name": "Blue d\u0027hosrs_ide chaps"
+      "name": "Blue d'hide chaps"
     },
     {
       "osrs_id": 2495,
-      "name": "Red d\u0027hosrs_ide chaps"
+      "name": "Red d'hide chaps"
     },
     {
       "osrs_id": 2497,
-      "name": "Black d\u0027hosrs_ide chaps"
+      "name": "Black d'hide chaps"
     },
     {
       "osrs_id": 2499,
-      "name": "Blue d\u0027hosrs_ide body"
+      "name": "Blue d'hide body"
     },
     {
       "osrs_id": 2501,
-      "name": "Red d\u0027hosrs_ide body"
+      "name": "Red d'hide body"
     },
     {
       "osrs_id": 2503,
-      "name": "Black d\u0027hosrs_ide body"
+      "name": "Black d'hide body"
     },
     {
       "osrs_id": 2505,
@@ -3707,7 +3707,7 @@ Item.create([
     },
     {
       "osrs_id": 2651,
-      "name": "Pirate\u0027s hat"
+      "name": "Pirate's hat"
     },
     {
       "osrs_id": 2653,
@@ -3919,7 +3919,7 @@ Item.create([
     },
     {
       "osrs_id": 2997,
-      "name": "Pirate\u0027s hook"
+      "name": "Pirate's hook"
     },
     {
       "osrs_id": 2998,
@@ -4187,7 +4187,7 @@ Item.create([
     },
     {
       "osrs_id": 3329,
-      "name": "Blood\u0027n\u0027tar snelm"
+      "name": "Blood'n'tar snelm"
     },
     {
       "osrs_id": 3331,
@@ -4207,7 +4207,7 @@ Item.create([
     },
     {
       "osrs_id": 3339,
-      "name": "Blood\u0027n\u0027tar snelm"
+      "name": "Blood'n'tar snelm"
     },
     {
       "osrs_id": 3341,
@@ -4767,7 +4767,7 @@ Item.create([
     },
     {
       "osrs_id": 4170,
-      "name": "Slayer\u0027s staff"
+      "name": "Slayer's staff"
     },
     {
       "osrs_id": 4207,
@@ -5031,11 +5031,11 @@ Item.create([
     },
     {
       "osrs_id": 4438,
-      "name": "Unfired pot losrs_id"
+      "name": "Unfired pot lid"
     },
     {
       "osrs_id": 4440,
-      "name": "Pot losrs_id"
+      "name": "Pot lid"
     },
     {
       "osrs_id": 4456,
@@ -5123,7 +5123,7 @@ Item.create([
     },
     {
       "osrs_id": 4591,
-      "name": "Kharosrs_idian headpiece"
+      "name": "Kharidian headpiece"
     },
     {
       "osrs_id": 4593,
@@ -5131,7 +5131,7 @@ Item.create([
     },
     {
       "osrs_id": 4595,
-      "name": "Karosrs_idian disguise"
+      "name": "Karidian disguise"
     },
     {
       "osrs_id": 4600,
@@ -5143,7 +5143,7 @@ Item.create([
     },
     {
       "osrs_id": 4627,
-      "name": "Bandit\u0027s brew"
+      "name": "Bandit's brew"
     },
     {
       "osrs_id": 4668,
@@ -5191,67 +5191,67 @@ Item.create([
     },
     {
       "osrs_id": 4708,
-      "name": "Ahrim\u0027s hood"
+      "name": "Ahrim's hood"
     },
     {
       "osrs_id": 4710,
-      "name": "Ahrim\u0027s staff"
+      "name": "Ahrim's staff"
     },
     {
       "osrs_id": 4712,
-      "name": "Ahrim\u0027s robetop"
+      "name": "Ahrim's robetop"
     },
     {
       "osrs_id": 4714,
-      "name": "Ahrim\u0027s robeskirt"
+      "name": "Ahrim's robeskirt"
     },
     {
       "osrs_id": 4716,
-      "name": "Dharok\u0027s helm"
+      "name": "Dharok's helm"
     },
     {
       "osrs_id": 4718,
-      "name": "Dharok\u0027s greataxe"
+      "name": "Dharok's greataxe"
     },
     {
       "osrs_id": 4720,
-      "name": "Dharok\u0027s platebody"
+      "name": "Dharok's platebody"
     },
     {
       "osrs_id": 4722,
-      "name": "Dharok\u0027s platelegs"
+      "name": "Dharok's platelegs"
     },
     {
       "osrs_id": 4724,
-      "name": "Guthan\u0027s helm"
+      "name": "Guthan's helm"
     },
     {
       "osrs_id": 4726,
-      "name": "Guthan\u0027s warspear"
+      "name": "Guthan's warspear"
     },
     {
       "osrs_id": 4728,
-      "name": "Guthan\u0027s platebody"
+      "name": "Guthan's platebody"
     },
     {
       "osrs_id": 4730,
-      "name": "Guthan\u0027s chainskirt"
+      "name": "Guthan's chainskirt"
     },
     {
       "osrs_id": 4732,
-      "name": "Karil\u0027s coif"
+      "name": "Karil's coif"
     },
     {
       "osrs_id": 4734,
-      "name": "Karil\u0027s crossbow"
+      "name": "Karil's crossbow"
     },
     {
       "osrs_id": 4736,
-      "name": "Karil\u0027s leathertop"
+      "name": "Karil's leathertop"
     },
     {
       "osrs_id": 4738,
-      "name": "Karil\u0027s leatherskirt"
+      "name": "Karil's leatherskirt"
     },
     {
       "osrs_id": 4740,
@@ -5259,35 +5259,35 @@ Item.create([
     },
     {
       "osrs_id": 4745,
-      "name": "Torag\u0027s helm"
+      "name": "Torag's helm"
     },
     {
       "osrs_id": 4747,
-      "name": "Torag\u0027s hammers"
+      "name": "Torag's hammers"
     },
     {
       "osrs_id": 4749,
-      "name": "Torag\u0027s platebody"
+      "name": "Torag's platebody"
     },
     {
       "osrs_id": 4751,
-      "name": "Torag\u0027s platelegs"
+      "name": "Torag's platelegs"
     },
     {
       "osrs_id": 4753,
-      "name": "Verac\u0027s helm"
+      "name": "Verac's helm"
     },
     {
       "osrs_id": 4755,
-      "name": "Verac\u0027s flail"
+      "name": "Verac's flail"
     },
     {
       "osrs_id": 4757,
-      "name": "Verac\u0027s brassard"
+      "name": "Verac's brassard"
     },
     {
       "osrs_id": 4759,
-      "name": "Verac\u0027s plateskirt"
+      "name": "Verac's plateskirt"
     },
     {
       "osrs_id": 4773,
@@ -5367,19 +5367,19 @@ Item.create([
     },
     {
       "osrs_id": 4842,
-      "name": "Relicym\u0027s balm(4)"
+      "name": "Relicym's balm(4)"
     },
     {
       "osrs_id": 4844,
-      "name": "Relicym\u0027s balm(3)"
+      "name": "Relicym's balm(3)"
     },
     {
       "osrs_id": 4846,
-      "name": "Relicym\u0027s balm(2)"
+      "name": "Relicym's balm(2)"
     },
     {
       "osrs_id": 4848,
-      "name": "Relicym\u0027s balm(1)"
+      "name": "Relicym's balm(1)"
     },
     {
       "osrs_id": 4850,
@@ -5387,99 +5387,99 @@ Item.create([
     },
     {
       "osrs_id": 4860,
-      "name": "Ahrim\u0027s hood 0"
+      "name": "Ahrim's hood 0"
     },
     {
       "osrs_id": 4866,
-      "name": "Ahrim\u0027s staff 0"
+      "name": "Ahrim's staff 0"
     },
     {
       "osrs_id": 4872,
-      "name": "Ahrim\u0027s robetop 0"
+      "name": "Ahrim's robetop 0"
     },
     {
       "osrs_id": 4878,
-      "name": "Ahrim\u0027s robeskirt 0"
+      "name": "Ahrim's robeskirt 0"
     },
     {
       "osrs_id": 4884,
-      "name": "Dharok\u0027s helm 0"
+      "name": "Dharok's helm 0"
     },
     {
       "osrs_id": 4890,
-      "name": "Dharok\u0027s greataxe 0"
+      "name": "Dharok's greataxe 0"
     },
     {
       "osrs_id": 4896,
-      "name": "Dharok\u0027s platebody 0"
+      "name": "Dharok's platebody 0"
     },
     {
       "osrs_id": 4902,
-      "name": "Dharok\u0027s platelegs 0"
+      "name": "Dharok's platelegs 0"
     },
     {
       "osrs_id": 4908,
-      "name": "Guthan\u0027s helm 0"
+      "name": "Guthan's helm 0"
     },
     {
       "osrs_id": 4914,
-      "name": "Guthan\u0027s warspear 0"
+      "name": "Guthan's warspear 0"
     },
     {
       "osrs_id": 4920,
-      "name": "Guthan\u0027s platebody 0"
+      "name": "Guthan's platebody 0"
     },
     {
       "osrs_id": 4926,
-      "name": "Guthan\u0027s chainskirt 0"
+      "name": "Guthan's chainskirt 0"
     },
     {
       "osrs_id": 4932,
-      "name": "Karil\u0027s coif 0"
+      "name": "Karil's coif 0"
     },
     {
       "osrs_id": 4938,
-      "name": "Karil\u0027s crossbow 0"
+      "name": "Karil's crossbow 0"
     },
     {
       "osrs_id": 4944,
-      "name": "Karil\u0027s leathertop 0"
+      "name": "Karil's leathertop 0"
     },
     {
       "osrs_id": 4950,
-      "name": "Karil\u0027s leatherskirt 0"
+      "name": "Karil's leatherskirt 0"
     },
     {
       "osrs_id": 4956,
-      "name": "Torag\u0027s helm 0"
+      "name": "Torag's helm 0"
     },
     {
       "osrs_id": 4962,
-      "name": "Torag\u0027s hammers 0"
+      "name": "Torag's hammers 0"
     },
     {
       "osrs_id": 4968,
-      "name": "Torag\u0027s platebody 0"
+      "name": "Torag's platebody 0"
     },
     {
       "osrs_id": 4974,
-      "name": "Torag\u0027s platelegs 0"
+      "name": "Torag's platelegs 0"
     },
     {
       "osrs_id": 4980,
-      "name": "Verac\u0027s helm 0"
+      "name": "Verac's helm 0"
     },
     {
       "osrs_id": 4986,
-      "name": "Verac\u0027s flail 0"
+      "name": "Verac's flail 0"
     },
     {
       "osrs_id": 4992,
-      "name": "Verac\u0027s brassard 0"
+      "name": "Verac's brassard 0"
     },
     {
       "osrs_id": 4998,
-      "name": "Verac\u0027s plateskirt 0"
+      "name": "Verac's plateskirt 0"
     },
     {
       "osrs_id": 5001,
@@ -6323,7 +6323,7 @@ Item.create([
     },
     {
       "osrs_id": 5743,
-      "name": "Greenman\u0027s ale(m)"
+      "name": "Greenman's ale(m)"
     },
     {
       "osrs_id": 5745,
@@ -6339,35 +6339,35 @@ Item.create([
     },
     {
       "osrs_id": 5751,
-      "name": "Axeman\u0027s folly"
+      "name": "Axeman's folly"
     },
     {
       "osrs_id": 5753,
-      "name": "Axeman\u0027s folly(m)"
+      "name": "Axeman's folly(m)"
     },
     {
       "osrs_id": 5755,
-      "name": "Chef\u0027s delight"
+      "name": "Chef's delight"
     },
     {
       "osrs_id": 5757,
-      "name": "Chef\u0027s delight(m)"
+      "name": "Chef's delight(m)"
     },
     {
       "osrs_id": 5759,
-      "name": "Slayer\u0027s respite"
+      "name": "Slayer's respite"
     },
     {
       "osrs_id": 5761,
-      "name": "Slayer\u0027s respite(m)"
+      "name": "Slayer's respite(m)"
     },
     {
       "osrs_id": 5763,
-      "name": "Cosrs_ider"
+      "name": "Cider"
     },
     {
       "osrs_id": 5765,
-      "name": "Mature cosrs_ider"
+      "name": "Mature cider"
     },
     {
       "osrs_id": 5767,
@@ -6403,19 +6403,19 @@ Item.create([
     },
     {
       "osrs_id": 5825,
-      "name": "Axeman\u0027s folly(4)"
+      "name": "Axeman's folly(4)"
     },
     {
       "osrs_id": 5833,
-      "name": "Chef\u0027s delight(4)"
+      "name": "Chef's delight(4)"
     },
     {
       "osrs_id": 5841,
-      "name": "Slayer\u0027s respite(4)"
+      "name": "Slayer's respite(4)"
     },
     {
       "osrs_id": 5849,
-      "name": "Cosrs_ider(4)"
+      "name": "Cider(4)"
     },
     {
       "osrs_id": 5857,
@@ -6443,11 +6443,11 @@ Item.create([
     },
     {
       "osrs_id": 5905,
-      "name": "Axeman\u0027s folly(m4)"
+      "name": "Axeman's folly(m4)"
     },
     {
       "osrs_id": 5913,
-      "name": "Chef\u0027s delight(m4)"
+      "name": "Chef's delight(m4)"
     },
     {
       "osrs_id": 5921,
@@ -6455,7 +6455,7 @@ Item.create([
     },
     {
       "osrs_id": 5929,
-      "name": "Cosrs_ider(m4)"
+      "name": "Cider(m4)"
     },
     {
       "osrs_id": 5931,
@@ -6479,35 +6479,35 @@ Item.create([
     },
     {
       "osrs_id": 5943,
-      "name": "Antosrs_idote+(4)"
+      "name": "Antidote+(4)"
     },
     {
       "osrs_id": 5945,
-      "name": "Antosrs_idote+(3)"
+      "name": "Antidote+(3)"
     },
     {
       "osrs_id": 5947,
-      "name": "Antosrs_idote+(2)"
+      "name": "Antidote+(2)"
     },
     {
       "osrs_id": 5949,
-      "name": "Antosrs_idote+(1)"
+      "name": "Antidote+(1)"
     },
     {
       "osrs_id": 5952,
-      "name": "Antosrs_idote++(4)"
+      "name": "Antidote++(4)"
     },
     {
       "osrs_id": 5954,
-      "name": "Antosrs_idote++(3)"
+      "name": "Antidote++(3)"
     },
     {
       "osrs_id": 5956,
-      "name": "Antosrs_idote++(2)"
+      "name": "Antidote++(2)"
     },
     {
       "osrs_id": 5958,
-      "name": "Antosrs_idote++(1)"
+      "name": "Antidote++(1)"
     },
     {
       "osrs_id": 5968,
@@ -6711,7 +6711,7 @@ Item.create([
     },
     {
       "osrs_id": 6155,
-      "name": "Dagannoth hosrs_ide"
+      "name": "Dagannoth hide"
     },
     {
       "osrs_id": 6157,
@@ -6739,15 +6739,15 @@ Item.create([
     },
     {
       "osrs_id": 6169,
-      "name": "Circular hosrs_ide"
+      "name": "Circular hide"
     },
     {
       "osrs_id": 6171,
-      "name": "Flattened hosrs_ide"
+      "name": "Flattened hide"
     },
     {
       "osrs_id": 6173,
-      "name": "Stretched hosrs_ide"
+      "name": "Stretched hide"
     },
     {
       "osrs_id": 6211,
@@ -6795,7 +6795,7 @@ Item.create([
     },
     {
       "osrs_id": 6287,
-      "name": "Snake hosrs_ide"
+      "name": "Snake hide"
     },
     {
       "osrs_id": 6289,
@@ -6803,15 +6803,15 @@ Item.create([
     },
     {
       "osrs_id": 6291,
-      "name": "Sposrs_ider carcass"
+      "name": "Spider carcass"
     },
     {
       "osrs_id": 6297,
-      "name": "Sposrs_ider on stick"
+      "name": "Spider on stick"
     },
     {
       "osrs_id": 6299,
-      "name": "Sposrs_ider on shaft"
+      "name": "Spider on shaft"
     },
     {
       "osrs_id": 6305,
@@ -7095,7 +7095,7 @@ Item.create([
     },
     {
       "osrs_id": 6568,
-      "name": "Obsosrs_idian cape"
+      "name": "Obsidian cape"
     },
     {
       "osrs_id": 6571,
@@ -7335,7 +7335,7 @@ Item.create([
     },
     {
       "osrs_id": 6889,
-      "name": "Mage\u0027s book"
+      "name": "Mage's book"
     },
     {
       "osrs_id": 6891,
@@ -7443,7 +7443,7 @@ Item.create([
     },
     {
       "osrs_id": 7066,
-      "name": "Mushroom \u0026 onion"
+      "name": "Mushroom & onion"
     },
     {
       "osrs_id": 7068,
@@ -7723,35 +7723,35 @@ Item.create([
     },
     {
       "osrs_id": 7370,
-      "name": "Green d\u0027hosrs_ide body (g)"
+      "name": "Green d'hide body (g)"
     },
     {
       "osrs_id": 7372,
-      "name": "Green d\u0027hosrs_ide body (t)"
+      "name": "Green d'hide body (t)"
     },
     {
       "osrs_id": 7374,
-      "name": "Blue d\u0027hosrs_ide body (g)"
+      "name": "Blue d'hide body (g)"
     },
     {
       "osrs_id": 7376,
-      "name": "Blue d\u0027hosrs_ide body (t)"
+      "name": "Blue d'hide body (t)"
     },
     {
       "osrs_id": 7378,
-      "name": "Green d\u0027hosrs_ide chaps (g)"
+      "name": "Green d'hide chaps (g)"
     },
     {
       "osrs_id": 7380,
-      "name": "Green d\u0027hosrs_ide chaps (t)"
+      "name": "Green d'hide chaps (t)"
     },
     {
       "osrs_id": 7382,
-      "name": "Blue d\u0027hosrs_ide chaps (g)"
+      "name": "Blue d'hide chaps (g)"
     },
     {
       "osrs_id": 7384,
-      "name": "Blue d\u0027hosrs_ide chaps (t)"
+      "name": "Blue d'hide chaps (t)"
     },
     {
       "osrs_id": 7386,
@@ -7911,7 +7911,7 @@ Item.create([
     },
     {
       "osrs_id": 7801,
-      "name": "Snake hosrs_ide"
+      "name": "Snake hide"
     },
     {
       "osrs_id": 7919,
@@ -8131,7 +8131,7 @@ Item.create([
     },
     {
       "osrs_id": 8518,
-      "name": "Cosrs_ider barrel"
+      "name": "Cider barrel"
     },
     {
       "osrs_id": 8520,
@@ -8139,7 +8139,7 @@ Item.create([
     },
     {
       "osrs_id": 8522,
-      "name": "Greenman\u0027s ale"
+      "name": "Greenman's ale"
     },
     {
       "osrs_id": 8524,
@@ -8147,7 +8147,7 @@ Item.create([
     },
     {
       "osrs_id": 8526,
-      "name": "Chef\u0027s delight"
+      "name": "Chef's delight"
     },
     {
       "osrs_id": 8528,
@@ -8531,11 +8531,11 @@ Item.create([
     },
     {
       "osrs_id": 9044,
-      "name": "Pharaoh\u0027s sceptre (3)"
+      "name": "Pharaoh's sceptre (3)"
     },
     {
       "osrs_id": 9050,
-      "name": "Pharaoh\u0027s sceptre"
+      "name": "Pharaoh's sceptre"
     },
     {
       "osrs_id": 9052,
@@ -9439,7 +9439,7 @@ Item.create([
     },
     {
       "osrs_id": 10156,
-      "name": "Hunters\u0027 crossbow"
+      "name": "Hunters' crossbow"
     },
     {
       "osrs_id": 10158,
@@ -9523,23 +9523,23 @@ Item.create([
     },
     {
       "osrs_id": 10316,
-      "name": "Bob\u0027s red shirt"
+      "name": "Bob's red shirt"
     },
     {
       "osrs_id": 10318,
-      "name": "Bob\u0027s blue shirt"
+      "name": "Bob's blue shirt"
     },
     {
       "osrs_id": 10320,
-      "name": "Bob\u0027s green shirt"
+      "name": "Bob's green shirt"
     },
     {
       "osrs_id": 10322,
-      "name": "Bob\u0027s black shirt"
+      "name": "Bob's black shirt"
     },
     {
       "osrs_id": 10324,
-      "name": "Bob\u0027s purple shirt"
+      "name": "Bob's purple shirt"
     },
     {
       "osrs_id": 10326,
@@ -9619,7 +9619,7 @@ Item.create([
     },
     {
       "osrs_id": 10370,
-      "name": "Zamorak d\u0027hosrs_ide"
+      "name": "Zamorak d'hide"
     },
     {
       "osrs_id": 10372,
@@ -9635,7 +9635,7 @@ Item.create([
     },
     {
       "osrs_id": 10378,
-      "name": "Guthix dragonhosrs_ide"
+      "name": "Guthix dragonhide"
     },
     {
       "osrs_id": 10380,
@@ -9651,7 +9651,7 @@ Item.create([
     },
     {
       "osrs_id": 10386,
-      "name": "Saradomin d\u0027hosrs_ide"
+      "name": "Saradomin d'hide"
     },
     {
       "osrs_id": 10388,
@@ -9867,19 +9867,19 @@ Item.create([
     },
     {
       "osrs_id": 10818,
-      "name": "Yak-hosrs_ide"
+      "name": "Yak-hide"
     },
     {
       "osrs_id": 10820,
-      "name": "Cured yak-hosrs_ide"
+      "name": "Cured yak-hide"
     },
     {
       "osrs_id": 10822,
-      "name": "Yak-hosrs_ide armour"
+      "name": "Yak-hide armour"
     },
     {
       "osrs_id": 10824,
-      "name": "Yak-hosrs_ide armour"
+      "name": "Yak-hide armour"
     },
     {
       "osrs_id": 10826,
@@ -10279,11 +10279,11 @@ Item.create([
     },
     {
       "osrs_id": 11437,
-      "name": "Relicym\u0027s mix(2)"
+      "name": "Relicym's mix(2)"
     },
     {
       "osrs_id": 11439,
-      "name": "Relicym\u0027s mix(1)"
+      "name": "Relicym's mix(1)"
     },
     {
       "osrs_id": 11441,
@@ -10575,11 +10575,11 @@ Item.create([
     },
     {
       "osrs_id": 11905,
-      "name": "Trosrs_ident of the seas (full)"
+      "name": "Trident of the seas (full)"
     },
     {
       "osrs_id": 11908,
-      "name": "Uncharged trosrs_ident"
+      "name": "Uncharged trident"
     },
     {
       "osrs_id": 11920,
@@ -10983,19 +10983,19 @@ Item.create([
     },
     {
       "osrs_id": 12327,
-      "name": "Red d\u0027hosrs_ide body (g)"
+      "name": "Red d'hide body (g)"
     },
     {
       "osrs_id": 12329,
-      "name": "Red d\u0027hosrs_ide chaps (g)"
+      "name": "Red d'hide chaps (g)"
     },
     {
       "osrs_id": 12331,
-      "name": "Red d\u0027hosrs_ide body (t)"
+      "name": "Red d'hide body (t)"
     },
     {
       "osrs_id": 12333,
-      "name": "Red d\u0027hosrs_ide chaps (t)"
+      "name": "Red d'hide chaps (t)"
     },
     {
       "osrs_id": 12335,
@@ -11091,19 +11091,19 @@ Item.create([
     },
     {
       "osrs_id": 12381,
-      "name": "Black d\u0027hosrs_ide body (g)"
+      "name": "Black d'hide body (g)"
     },
     {
       "osrs_id": 12383,
-      "name": "Black d\u0027hosrs_ide chaps (g)"
+      "name": "Black d'hide chaps (g)"
     },
     {
       "osrs_id": 12385,
-      "name": "Black d\u0027hosrs_ide body (t)"
+      "name": "Black d'hide body (t)"
     },
     {
       "osrs_id": 12387,
-      "name": "Black d\u0027hosrs_ide chaps (t)"
+      "name": "Black d'hide chaps (t)"
     },
     {
       "osrs_id": 12389,
@@ -11127,7 +11127,7 @@ Item.create([
     },
     {
       "osrs_id": 12399,
-      "name": "Partyhat \u0026 specs"
+      "name": "Partyhat & specs"
     },
     {
       "osrs_id": 12402,
@@ -11147,7 +11147,7 @@ Item.create([
     },
     {
       "osrs_id": 12406,
-      "name": "Mort\u0027ton teleport"
+      "name": "Mort'ton teleport"
     },
     {
       "osrs_id": 12407,
@@ -11167,11 +11167,11 @@ Item.create([
     },
     {
       "osrs_id": 12411,
-      "name": "Mos le\u0027harmless teleport"
+      "name": "Mos le'harmless teleport"
     },
     {
       "osrs_id": 12412,
-      "name": "Pirate hat \u0026 patch"
+      "name": "Pirate hat & patch"
     },
     {
       "osrs_id": 12422,
@@ -11199,7 +11199,7 @@ Item.create([
     },
     {
       "osrs_id": 12434,
-      "name": "Top hat \u0026 monocle"
+      "name": "Top hat & monocle"
     },
     {
       "osrs_id": 12437,
@@ -11307,7 +11307,7 @@ Item.create([
     },
     {
       "osrs_id": 12492,
-      "name": "Ancient d\u0027hosrs_ide"
+      "name": "Ancient d'hide"
     },
     {
       "osrs_id": 12494,
@@ -11323,7 +11323,7 @@ Item.create([
     },
     {
       "osrs_id": 12500,
-      "name": "Bandos d\u0027hosrs_ide"
+      "name": "Bandos d'hide"
     },
     {
       "osrs_id": 12502,
@@ -11339,7 +11339,7 @@ Item.create([
     },
     {
       "osrs_id": 12508,
-      "name": "Armadyl d\u0027hosrs_ide"
+      "name": "Armadyl d'hide"
     },
     {
       "osrs_id": 12510,
@@ -11407,7 +11407,7 @@ Item.create([
     },
     {
       "osrs_id": 12596,
-      "name": "Rangers\u0027 tunic"
+      "name": "Rangers' tunic"
     },
     {
       "osrs_id": 12598,
@@ -11603,7 +11603,7 @@ Item.create([
     },
     {
       "osrs_id": 12804,
-      "name": "Saradomin\u0027s tear"
+      "name": "Saradomin's tear"
     },
     {
       "osrs_id": 12817,
@@ -11659,43 +11659,43 @@ Item.create([
     },
     {
       "osrs_id": 12865,
-      "name": "Green dragonhosrs_ide set"
+      "name": "Green dragonhide set"
     },
     {
       "osrs_id": 12867,
-      "name": "Blue dragonhosrs_ide set"
+      "name": "Blue dragonhide set"
     },
     {
       "osrs_id": 12869,
-      "name": "Red dragonhosrs_ide set"
+      "name": "Red dragonhide set"
     },
     {
       "osrs_id": 12871,
-      "name": "Black dragonhosrs_ide set"
+      "name": "Black dragonhide set"
     },
     {
       "osrs_id": 12873,
-      "name": "Guthan\u0027s armour set"
+      "name": "Guthan's armour set"
     },
     {
       "osrs_id": 12875,
-      "name": "Verac\u0027s armour set"
+      "name": "Verac's armour set"
     },
     {
       "osrs_id": 12877,
-      "name": "Dharok\u0027s armour set"
+      "name": "Dharok's armour set"
     },
     {
       "osrs_id": 12879,
-      "name": "Torag\u0027s armour set"
+      "name": "Torag's armour set"
     },
     {
       "osrs_id": 12881,
-      "name": "Ahrim\u0027s armour set"
+      "name": "Ahrim's armour set"
     },
     {
       "osrs_id": 12883,
-      "name": "Karil\u0027s armour set"
+      "name": "Karil's armour set"
     },
     {
       "osrs_id": 12885,
@@ -11703,7 +11703,7 @@ Item.create([
     },
     {
       "osrs_id": 12900,
-      "name": "Uncharged toxic trosrs_ident"
+      "name": "Uncharged toxic trident"
     },
     {
       "osrs_id": 12902,
@@ -11763,7 +11763,7 @@ Item.create([
     },
     {
       "osrs_id": 12934,
-      "name": "Zulrah\u0027s scales"
+      "name": "Zulrah's scales"
     },
     {
       "osrs_id": 12936,
@@ -12015,27 +12015,27 @@ Item.create([
     },
     {
       "osrs_id": 13161,
-      "name": "Zamorak dragonhosrs_ide set"
+      "name": "Zamorak dragonhide set"
     },
     {
       "osrs_id": 13163,
-      "name": "Saradomin dragonhosrs_ide set"
+      "name": "Saradomin dragonhide set"
     },
     {
       "osrs_id": 13165,
-      "name": "Guthix dragonhosrs_ide set"
+      "name": "Guthix dragonhide set"
     },
     {
       "osrs_id": 13167,
-      "name": "Bandos dragonhosrs_ide set"
+      "name": "Bandos dragonhide set"
     },
     {
       "osrs_id": 13169,
-      "name": "Armadyl dragonhosrs_ide set"
+      "name": "Armadyl dragonhide set"
     },
     {
       "osrs_id": 13171,
-      "name": "Ancient dragonhosrs_ide set"
+      "name": "Ancient dragonhide set"
     },
     {
       "osrs_id": 13173,
