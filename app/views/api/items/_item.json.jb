@@ -1,5 +1,6 @@
 {
   id: item.id,
   name: item.name,
-  osrs_id: item.osrs_id
+  osrs_id: item.osrs_id,
+  icon: item.icon
 }

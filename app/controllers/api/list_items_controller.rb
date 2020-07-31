@@ -13,7 +13,7 @@ class Api::ListItemsController < ApplicationController
   end
 
   def destroy
-    @list_item = ListItem.find(params[:id])
+    @list_item = ListItem.find_by(item_id: params[:item_id], list_id: params[:list_id])
     @list_item.destroy
     render json: {message: "list_item successfully deleted"}
   end

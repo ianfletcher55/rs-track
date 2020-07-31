@@ -1,5 +1,6 @@
 {
   id: list_quest.id,
   list_id: list_quest.list_id,
-  quest_id: list_quest.quest_id
+  quest_id: list_quest.quest_id,
+  name: list_quest.quest.name
 }
