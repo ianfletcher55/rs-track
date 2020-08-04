@@ -13,7 +13,7 @@ class Api::ListQuestsController < ApplicationController
   end
 
   def destroy
-    @list_quest = ListQuest.find(params[:id])
+    @list_quest = ListQuest.find_by(quest_id: params[:quest_id], list_id: params[:list_id])
     @list_quest.destroy
     render json: {message: "list_quest successfully deleted"}
   end
