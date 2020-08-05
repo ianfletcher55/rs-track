@@ -1,13 +1,15 @@
 board_hash = render partial: "board.json.jb", locals: {board: @board}
 board_hash[:lists] = @board.lists.map do |list|
   list_hash = render partial: "api/lists/list.json.jb", locals: {list: list}
-  list_hash[:items] = list.items.map do |item|
+  list_hash[:items] = list.list_items.order(created_at: :desc).map do |list_item|
+    item = list_item.item
     render partial: "api/items/item.json.jb", locals: {item: item}
   end
-  list_hash[:quests] = list.quests.map do |quest|
+  list_hash[:quests] = list.list_quests.order(created_at: :desc).map do |list_quest|
+    quest = list_quest.quest
     render partial: "api/quests/quest.json.jb", locals: {quest: quest}
   end
-  list_hash[:notes] = list.notes.map do |note|
+  list_hash[:notes] = list.notes.order(created_at: :desc).map do |note|
     render partial: "api/notes/note.json.jb", locals: {note: note}
   end
   list_hash
